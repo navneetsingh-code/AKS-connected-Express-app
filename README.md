@@ -86,7 +86,7 @@ kubectl get svc my-express-app
 
 👨‍💻 Author
 Navneet Singh
-Senior Software Developer | Azure AI Solutions Engineer
+Staff Software Developer | Azure AI Solutions Engineer
 
 🚫 Disclaimer
 Do not commit .env or real credentials. Use .env.example to share structure only.
